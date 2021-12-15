@@ -79,6 +79,7 @@ All OSSU Math students need to take all of these courses. Subjects include:
 - Linear Algebra
 - Probability & Statistics
 - Intro to Analysis
+- Intro to Abstract Algebra
 
 
 ### Introduction to Mathematical Thinking
@@ -102,9 +103,9 @@ Calculus is the study of infinity. As the cornerstone of geometry and physics, i
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | 13 weeks | 6-10 hours/week | high school math
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | 13 weeks | 5-10 hours/week | Calculus 1A 
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | 6 weeks | 5-10 hours/week | Calculus 1B
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) [alt](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | 13 weeks | 6-10 hours/week | high school math
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) [alt](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | Calculus 1A 
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) [alt](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | Calculus 1B
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | 12 weeks | 6 hours/week | Calculus 1C 
 
 ### Introduction to Differential Equations
@@ -172,6 +173,19 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to Analysis](https://ocw.mit.edu/courses/mathematics/18-100a-introduction-to-analysis-fall-2012/) | 14 weeks | 8-10 hours/week | Multivariable Calculus
 [Supplemental Lecture Videos](https://www.youtube.com/watch?v=EaKLXK4hFFQ&list=PLmU0FIlJY-MngWPhBDUPelVV3GhDw_mJu&index=1) | 16 weeks | 8-10 hours/week | Multivariable Calculus
 
+### Introduction to Abstract Algebra
+Abstract algebra (occasionally called modern algebra) is the study of algebraic structures. Algebraic structures include groups, rings, fields, modules, vector spaces, lattices, and algebras. The term abstract algebra was coined in the early 20th century to distinguish this area of study from older parts of algebra, and more specifically from elementary algebra, the use of variables to represent numbers in computation and reasoning.
+
+**Topics covered:**
+`Group Theory`
+`Rings and fields`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Abstract Group theory](https://nptel.ac.in/courses/111/106/111106113/) | 8 weeks | 8-10 hours/week |High school mathematics 
+[Introduction to Rings and Fields](https://nptel.ac.in/courses/111/106/111106131/) | 8 weeks | 8-10 hours/week | Introduction to Abstract Group Theory
+
+
 ## Advanced Topics
 
 Once you've completed all courses in Core Mathematics, you are free to take elective courses in Advanced Topics, which include:
@@ -197,7 +211,9 @@ Courses | Duration | Effort | Prerequisites
 [Transfer Functions and the Laplace Transform](https://www.edx.org/course/transfer-functions-and-the-laplace-transform) | 10 weeks | 3-6 hours/week | Introduction to Differential Equations 
 
 ### Mathematical Logic
-These courses should include logic, set theory, number theory, and proofs
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 9 hours/week | -
 
 ### Geometry
 Classical Geometry, Euclidian and non-Euclidian, introductory topology?
