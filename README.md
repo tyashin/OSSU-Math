@@ -182,8 +182,8 @@ Abstract algebra (occasionally called modern algebra) is the study of algebraic 
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Abstract Group theory](https://nptel.ac.in/courses/111/106/111106113/) | 8 weeks | 8-10 hours/week |High school mathematics 
-[Introduction to Rings and Fields](https://nptel.ac.in/courses/111/106/111106131/) | 8 weeks | 8-10 hours/week | Introduction to Abstract Group Theory
+[Introduction to Abstract Group theory](https://nptel.ac.in/courses/111106113) | 8 weeks | 8-10 hours/week |High school mathematics 
+[Introduction to Rings and Fields](https://nptel.ac.in/courses/111106131) | 8 weeks | 8-10 hours/week | Introduction to Abstract Group Theory
 
 
 ## Advanced Topics
@@ -215,8 +215,13 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 9 hours/week | -
 
-### Geometry
-Classical Geometry, Euclidian and non-Euclidian, introductory topology?
+### Geometry and Topology
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Topology Without Tears](https://www.topologywithouttears.net) | 15 weeks | 14 hours/week | Set Theory, Mathematical Matturity in Algebra and Geometry
+[Euclidean plane and its relatives](https://arxiv.org/pdf/1302.1630v19.pdf) | 14 weeks | 4-6 hours/week | Elementary Set Theory, Calculus 1c, Linear Algebra
+[Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) | 14 weeks | 14 hours/week | Multivariable Calculus
+[Differential Geometry](https://ocw.mit.edu/courses/mathematics/18-950-differential-geometry-fall-2008/) [(Supplementary Video Lectures)](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)  | 10 weeks | 6-8 hours/week | Multivariable Calculus, Introduction To Analysis and Linear Algebra
 
 ### Probability and Statistics
 Combinatorics, probability, statistics, game theory, applied stats
@@ -241,7 +246,7 @@ What is next for you? The possibilities are boundless and overlapping:
 ## How to show your progress
 
 1. Create an account in [Trello](https://trello.com/).
-1. Copy this (**TODO**) board to your personal account.
+1. Copy [this board](https://trello.com/b/zIlcyFSH/ossu-math) to your personal account.
 See how to copy a board [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
 Now that you have a copy of our official board, you just need to pass the cards to the `Doing` column or `Done` column as you progress in your study.
